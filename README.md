@@ -133,7 +133,7 @@ Sharpen problem-solving, focus, and creativity while having fun.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shivkumar17-tech">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
