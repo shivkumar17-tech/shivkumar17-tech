@@ -133,11 +133,11 @@ Sharpen problem-solving, focus, and creativity while having fun.
 
 <p align="center">
 
-<a href="https://github.com/shivkumar17-tech">
+<a href="https://github.com/shivkumar17-tech" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shiv-kumar-b26004326/">
+<a href="https://www.linkedin.com/in/shiv-kumar-b26004326/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
