@@ -141,7 +141,7 @@ Sharpen problem-solving, focus, and creativity while having fun.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:shivkumar17.in@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shivkumar17.in@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
